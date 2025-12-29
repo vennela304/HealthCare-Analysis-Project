@@ -1,2 +1,7 @@
-# HealthCare-Analysis-Project
-A healthcare data analysis project using SQL, Excel, Power BI, and Tableau to analyze patient and hospital data and build interactive dashboards for data-driven decision making.
+# Objectives
+•	Analyze patient admissions and treatment data
+•	Identify trends across departments and time periods
+•	Improve hospital resource utilization insights
+•	Build interactive dashboards for better reporting
+•	Support data-driven decision making in healthcare
+
